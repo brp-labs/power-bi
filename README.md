@@ -1,4 +1,4 @@
-<h2>Microsoft Power BI</h3>
+<h3>Microsoft Power BI</h3>
 
 <b>Author:</b> Brian Ravn Pedersen, Data Engineer and Software Developer<br/>
 <b>Created:</b> 2025-09-26<br/>
