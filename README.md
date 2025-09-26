@@ -12,5 +12,8 @@
 <b>REST API</b><br>
 API til udtræk af dynamiske data fra en cloud-hostet MySQL/MariaDB-database, designet til integration med Power BI Desktop via Power Query.
 API'et er kodet i PHP og filen findes i rodmappen under navnen pbiapi.php.
+<br>
 
+<b>Interaktiv Power BI-rapport</b><br>  
+<img src="power_bi_visual_beder_kirke.jpg" alt="Power BI-rapport: Beder Kirke" />
 
