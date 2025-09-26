@@ -19,4 +19,5 @@ Herunder et screenshot af den interaktive Power BI-rapport (på desktop), der i 
 <br><br>
 <img src="power_bi_visual_beder_kirke.jpg" alt="Power BI-rapport: Beder Kirke" />
 <br>
-<h3>Der vil løbende blive tilføjet mere indhold til denne README-fil...</h3>
+<h3>Der vil løbende blive tilføjet mere indhold til denne README-fil ...</h3>
+ 
