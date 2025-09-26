@@ -4,7 +4,7 @@
 
   // API til Power BI-integration med cloud-hostet MySQL-database.
   
-  require_once 'config.php'; // Henter den gyldige API-KEY (config.php er adgangsbeskyttet med .htaccess)
+  require_once 'config.php'; // Henter den gyldige API-KEY (config.php er adgangsbeskyttet via .htaccess)
   require_once 'databaseoplysninger.php'; // Henter host, username, password, dbname, tabel. Er ligeledes adgangsbeskyttet.
 
   $received_key = $_GET['key'] ?? '';
@@ -30,4 +30,5 @@
   echo json_encode($data);
 
 ?>
+
 
