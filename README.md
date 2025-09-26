@@ -18,4 +18,5 @@ API'et er kodet i PHP og filen findes i rodmappen under navnen <code>pbiapi.php<
 Herunder et screenshot af den interaktive Power BI-rapport (på desktop), der i tabeller og grafik giver et overblik over de aktuelle statistiske data vedrørende kirkegangen i Beder Kirke. Der kan filtreres på talrige måder med de forskellige visualiseringer i rapporten.
 <br><br>
 <img src="power_bi_visual_beder_kirke.jpg" alt="Power BI-rapport: Beder Kirke" />
-
+<br>
+<h3>Der vil løbende blive tilføjet indhold til denne README-fil...</h3>
