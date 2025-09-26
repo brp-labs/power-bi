@@ -9,4 +9,7 @@
 
 <h3>Data-Driven Decision Making with Microsoft Power BI</h3>
 
-
+<h3>REST API</h3>
+<b>Formål</b><br>
+REST API til udtræk af dynamiske data fra en cloud-hostet MySQL/MariaDB-database, designet til integration med Power BI Desktop via Power Query.
+API'et er kodet PHP og findes rodmappen under navnen pbiapi.php.
